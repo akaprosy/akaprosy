@@ -1,8 +1,11 @@
-#Alex Kaprosy
+**Alex Kaprosy**
 
-##U.S. Army Veteran
+- U.S. Army Veteran and student at #vetswhocode
 
-###
+About me:
+>After spending over twenty years in the fluid power industry, I
+>am exploring software development as a second career. 
+
 
 <!--
 **akaprosy/akaprosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
