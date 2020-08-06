@@ -6,7 +6,7 @@ About me:
 >After spending over twenty years in the fluid power industry, I
 >am exploring software development as a second career. 
 
-
+![](https://user-images.githubusercontent.com/28468778/89483238-66c89b80-d750-11ea-944a-94e64ce80582.jpg)
 <!--
 **akaprosy/akaprosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
