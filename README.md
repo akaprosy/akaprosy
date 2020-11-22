@@ -1,6 +1,6 @@
 # Alex Kaprosy
 
- - ### U.S. Army Veteran and student at #vetswhocode
+ - ### U.S. Army Veteran 
  
 
 About me:
