@@ -18,9 +18,7 @@ I am working on a project called 'Pressure Spike' for transitioning service memb
 ![](https://user-images.githubusercontent.com/28468778/89483199-587a7f80-d750-11ea-9f4a-d69cd37b46c9.PNG)
 
 
-Another project that I am working on is learning how to integrate Python with electro-hydraulic and electro-pneumatic application engineering. Whether it be using Matplotlib to plot hydraulic horsepower curves and hysteresis graphs, creating motor-torque charts with Pandas or building a functional library to be used in systems simulators,  Python has many potential use cases in my field. Eventually, I would like to write Python tutorials specifically for fluid power professionals. 
 
-![Figure_1](https://user-images.githubusercontent.com/28468778/89669883-160e8b00-d895-11ea-8ae2-23394f4d01a5.png)
 <!--
 **akaprosy/akaprosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
