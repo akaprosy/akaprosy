@@ -4,10 +4,8 @@
  
 
 About me:
->After spending over twenty years in the fluid power industry, I
->am exploring software development as a second career. I doubt that
->I will fully leave the fluid power industry. I am exploring ways to integrate
->these two disciplines that I enjoy. 
+>After spending over twenty years working in fluid power, I am working on leveling up my electrical and electronic controls skills to adapt to all of the changes in our 
+industry
 
 
 ![](https://user-images.githubusercontent.com/28468778/89483238-66c89b80-d750-11ea-944a-94e64ce80582.jpg)
